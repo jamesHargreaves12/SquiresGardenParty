@@ -1,0 +1,12 @@
+.longBanner{
+    max-width: none;
+    max-height: 7.2em;
+}
+
+.topBar {
+    height: 100px;
+    background: #ffc336;
+    position: fixed;
+    top: 0;
+    bottom: auto;
+}

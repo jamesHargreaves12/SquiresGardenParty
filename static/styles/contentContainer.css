@@ -1,0 +1,10 @@
+.contentContainer {
+    padding-left: 20%;
+    padding-right: 20%;
+    background-image: url("../images/backgroundRepeating.png");
+    background-repeat: repeat;
+}
+
+.mainTitle {
+    max-height: none;
+}
